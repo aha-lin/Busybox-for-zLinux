@@ -1,3 +1,8 @@
+This is trying to port Busybox to zLinux platform.
+
+
+Following is the original busybox readme.
+
 Please see the LICENSE file for details on copying and usage.
 Please refer to the INSTALL file for instructions on how to build.
 
